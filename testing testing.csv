@@ -1,5 +1,7 @@
 image,name,classification,mei
-,punctum,neume.punctum,
+,punctum,neume.punctum,"<neume>
+    <nc/>
+</neume>"
 ,podatus2,,
 ,,,
 ,,,
